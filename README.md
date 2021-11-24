@@ -1,0 +1,1 @@
+# nodejs_default_setup_with_mongodb
